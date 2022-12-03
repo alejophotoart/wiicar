@@ -1,0 +1,15 @@
+footer {
+    position: absolute;
+    box-shadow: 0px 15px 20px 15px rgb(0 0 0 / 50%);
+    bottom: 0;
+    width: 100%;
+    position: sticky;
+}
+
+.button-drop {
+    background: #E63020;
+    border: 1px solid #E63020;
+    border-radius: 50px;
+    width: 263px;
+    height: 40px;
+}

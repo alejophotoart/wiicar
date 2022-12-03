@@ -1,3 +1,7 @@
 .mdc-tab-indicator--active{
     color: #E63020;
 }
+
+mat-tab-group {
+    background-color: #fff;
+}
